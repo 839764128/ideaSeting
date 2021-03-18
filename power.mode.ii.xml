@@ -1,0 +1,17 @@
+<application>
+  <component name="PowerModeII">
+    <option name="blueFrom" value="35" />
+    <option name="blueTo" value="175" />
+    <option name="customBamImageFolder" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\jbr\bin" />
+    <option name="customFlameImageFolder" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\jbr\bin" />
+    <option name="frameRate" value="68" />
+    <option name="greenFrom" value="13" />
+    <option name="greenTo" value="142" />
+    <option name="isBamEnabled" value="false" />
+    <option name="isSingleBamImagePerEvent" value="true" />
+    <option name="keyStrokesPerMinute" value="37" />
+    <option name="redFrom" value="71" />
+    <option name="redTo" value="191" />
+    <option name="soundsFolder" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.2.3\jbr\bin" />
+  </component>
+</application>

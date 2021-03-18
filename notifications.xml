@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Branch Context group" displayType="NONE" />
+    <notification groupId="CodeStyleCheck Sticky Balloon Notification" displayType="NONE" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="File Watcher Messages" displayType="NONE" />
+  </component>
+</application>
