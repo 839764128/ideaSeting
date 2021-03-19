@@ -28,8 +28,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="5" />
-          <option name="checkDefectNum" value="124" />
+          <option name="checkCount" value="7" />
+          <option name="checkDefectNum" value="140" />
           <option name="criterionDescription" value="规则8.8.1 不要在代码中硬编码&quot;\n&quot;和&quot;\r&quot;作为换行符号" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="规则8.8.1" />
@@ -52,8 +52,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="26" />
-          <option name="checkDefectNum" value="1015" />
+          <option name="checkCount" value="38" />
+          <option name="checkDefectNum" value="1029" />
           <option name="criterionDescription" value="规则2.1 Javadoc用于每一个public或protected修饰的元素" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.1" />
@@ -188,8 +188,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="11" />
-          <option name="checkDefectNum" value="264" />
+          <option name="checkCount" value="12" />
+          <option name="checkDefectNum" value="267" />
           <option name="criterionDescription" value="规则7.4 日志的记录，不要使用 System.out 与 System.err 进行控制台打印，进行处理应使用Facade模式的日志框架（例如：产品自研的，或第三方Slf4j等）" />
           <option name="criterionMajorType" value="7.异常和日志" />
           <option name="criterionMinorType" value="规则7.4" />

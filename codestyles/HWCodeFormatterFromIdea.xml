@@ -9,6 +9,9 @@
       <value />
     </option>
   </JavaCodeStyleSettings>
+  <SqlCodeStyleSettings version="5">
+    <option name="DISABLE_FORMATTING" value="true" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
