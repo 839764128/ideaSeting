@@ -1,0 +1,18 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="METRIC" />
+      <item value="MAX METRIC COUNT" />
+      <item value="result Count" />
+      <item value="t C" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1616402414242" />
+  </component>
+</application>
