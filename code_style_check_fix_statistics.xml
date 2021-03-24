@@ -1,6 +1,6 @@
 <application>
   <component name="StatisticsStorage">
-    <option name="date" value="20210322" />
+    <option name="date" value="20210324" />
     <option name="rules">
       <list>
         <RuleStatisticsItem>
@@ -60,8 +60,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="10" />
-          <option name="checkDefectNum" value="902" />
+          <option name="checkCount" value="11" />
+          <option name="checkDefectNum" value="903" />
           <option name="criterionDescription" value="规则2.2 对于方法有参数、返回值、异常等信息时，必须在Javadoc块中描述：功能、@param、@return、@throws等" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.2" />
