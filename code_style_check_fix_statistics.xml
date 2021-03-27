@@ -76,8 +76,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="14" />
-          <option name="checkDefectNum" value="1815" />
+          <option name="checkCount" value="15" />
+          <option name="checkDefectNum" value="1816" />
           <option name="criterionDescription" value="规则2.3 Javadoc标签与内容间只1个空格,按@param，@return，@throws顺序排列" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.3" />
