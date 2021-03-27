@@ -1,6 +1,6 @@
 <application>
   <component name="StatisticsStorage">
-    <option name="date" value="20210326" />
+    <option name="date" value="20210327" />
     <option name="rules">
       <list>
         <RuleStatisticsItem>
@@ -100,8 +100,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="10" />
-          <option name="checkDefectNum" value="387" />
+          <option name="checkCount" value="11" />
+          <option name="checkDefectNum" value="388" />
           <option name="criterionDescription" value="规则5.1 避免方法过长，不超过50行（非空非注释）" />
           <option name="criterionMajorType" value="5.方法" />
           <option name="criterionMinorType" value="规则5.1" />
