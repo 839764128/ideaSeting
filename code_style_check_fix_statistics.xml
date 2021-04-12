@@ -1,6 +1,6 @@
 <application>
   <component name="StatisticsStorage">
-    <option name="date" value="20210406" />
+    <option name="date" value="20210412" />
     <option name="rules">
       <list>
         <RuleStatisticsItem>
@@ -124,8 +124,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="8" />
-          <option name="checkDefectNum" value="33" />
+          <option name="checkCount" value="9" />
+          <option name="checkDefectNum" value="35" />
           <option name="criterionDescription" value="规则6.1 避免在无关的变量或无关的概念之间重用名字，避免隐藏（hide）、遮蔽（shadow）和遮掩（obscure）" />
           <option name="criterionMajorType" value="6.类和接口" />
           <option name="criterionMinorType" value="规则6.1" />
