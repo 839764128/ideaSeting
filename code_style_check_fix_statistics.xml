@@ -44,8 +44,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="7" />
-          <option name="checkDefectNum" value="233" />
+          <option name="checkCount" value="8" />
+          <option name="checkDefectNum" value="234" />
           <option name="criterionDescription" value="规则1.2 所有标识符仅使用ASCII字母和数字，名称由正则表达式匹配 \w{2,64}" />
           <option name="criterionMajorType" value="1.命名" />
           <option name="criterionMinorType" value="规则1.2" />
@@ -188,8 +188,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="13" />
-          <option name="checkDefectNum" value="271" />
+          <option name="checkCount" value="15" />
+          <option name="checkDefectNum" value="273" />
           <option name="criterionDescription" value="规则7.4 日志的记录，不要使用 System.out 与 System.err 进行控制台打印，进行处理应使用Facade模式的日志框架（例如：产品自研的，或第三方Slf4j等）" />
           <option name="criterionMajorType" value="7.异常和日志" />
           <option name="criterionMinorType" value="规则7.4" />
