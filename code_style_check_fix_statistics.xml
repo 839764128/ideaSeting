@@ -52,8 +52,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="49" />
-          <option name="checkDefectNum" value="1058" />
+          <option name="checkCount" value="50" />
+          <option name="checkDefectNum" value="1059" />
           <option name="criterionDescription" value="规则2.1 Javadoc用于每一个public或protected修饰的元素" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.1" />
@@ -92,8 +92,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="2" />
-          <option name="checkDefectNum" value="25" />
+          <option name="checkCount" value="5" />
+          <option name="checkDefectNum" value="28" />
           <option name="criterionDescription" value="规则2.4 文件头注释必须包含版权许可，顶层public类头有功能说明、创建日期" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.4" />
@@ -188,8 +188,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="15" />
-          <option name="checkDefectNum" value="273" />
+          <option name="checkCount" value="16" />
+          <option name="checkDefectNum" value="276" />
           <option name="criterionDescription" value="规则7.4 日志的记录，不要使用 System.out 与 System.err 进行控制台打印，进行处理应使用Facade模式的日志框架（例如：产品自研的，或第三方Slf4j等）" />
           <option name="criterionMajorType" value="7.异常和日志" />
           <option name="criterionMinorType" value="规则7.4" />
