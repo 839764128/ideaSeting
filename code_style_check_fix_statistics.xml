@@ -1,6 +1,6 @@
 <application>
   <component name="StatisticsStorage">
-    <option name="date" value="20210414" />
+    <option name="date" value="20210415" />
     <option name="rules">
       <list>
         <RuleStatisticsItem>
@@ -44,8 +44,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="8" />
-          <option name="checkDefectNum" value="234" />
+          <option name="checkCount" value="9" />
+          <option name="checkDefectNum" value="236" />
           <option name="criterionDescription" value="规则1.2 所有标识符仅使用ASCII字母和数字，名称由正则表达式匹配 \w{2,64}" />
           <option name="criterionMajorType" value="1.命名" />
           <option name="criterionMinorType" value="规则1.2" />
