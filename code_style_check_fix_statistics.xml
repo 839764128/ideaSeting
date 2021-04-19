@@ -100,8 +100,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="14" />
-          <option name="checkDefectNum" value="431" />
+          <option name="checkCount" value="15" />
+          <option name="checkDefectNum" value="434" />
           <option name="criterionDescription" value="规则5.1 避免方法过长，不超过50行（非空非注释）" />
           <option name="criterionMajorType" value="5.方法" />
           <option name="criterionMinorType" value="规则5.1" />
@@ -212,24 +212,24 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="8" />
-          <option name="checkDefectNum" value="11" />
+          <option name="checkCount" value="11" />
+          <option name="checkDefectNum" value="25" />
           <option name="criterionDescription" value="建议8.2.3 表达式的比较，应当遵循左侧倾向于变化、右侧倾向于不变的原则" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.2.3" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="2" />
-          <option name="checkDefectNum" value="2" />
+          <option name="checkCount" value="4" />
+          <option name="checkDefectNum" value="6" />
           <option name="criterionDescription" value="建议3.6 减少不必要的空行，保持代码紧凑" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.6" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="1" />
+          <option name="checkCount" value="3" />
+          <option name="checkDefectNum" value="27" />
           <option name="criterionDescription" value="建议3.5 每行限长120个窄字符" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.5" />
@@ -252,8 +252,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="6" />
-          <option name="checkDefectNum" value="6" />
+          <option name="checkCount" value="7" />
+          <option name="checkDefectNum" value="8" />
           <option name="criterionDescription" value="建议8.1.2 避免不加控制地创建新线程，而应该使用线程池来管控资源" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.1.2" />
@@ -289,6 +289,30 @@
           <option name="criterionDescription" value="规则1.3 包名称小写以点号隔开，自研代码以com.huawei开头，包名允许有数字" />
           <option name="criterionMajorType" value="1.命名" />
           <option name="criterionMinorType" value="规则1.3" />
+          <option name="criterionType" value="华为Java语言通用编程规范" />
+        </RuleStatisticsItem>
+        <RuleStatisticsItem>
+          <option name="checkCount" value="1" />
+          <option name="checkDefectNum" value="1" />
+          <option name="criterionDescription" value="建议8.3.1 对于if-else if（后续可能有多个else if）类型的条件判断，最后应该包含一个else分支。" />
+          <option name="criterionMajorType" value="8.编程实践" />
+          <option name="criterionMinorType" value="建议8.3.1" />
+          <option name="criterionType" value="华为Java语言通用编程规范" />
+        </RuleStatisticsItem>
+        <RuleStatisticsItem>
+          <option name="checkCount" value="1" />
+          <option name="checkDefectNum" value="1" />
+          <option name="criterionDescription" value="建议4.1 在向下类型转换前用instanceof进行判断" />
+          <option name="criterionMajorType" value="4.变量和类型" />
+          <option name="criterionMinorType" value="建议4.1" />
+          <option name="criterionType" value="华为Java语言通用编程规范" />
+        </RuleStatisticsItem>
+        <RuleStatisticsItem>
+          <option name="checkCount" value="1" />
+          <option name="checkDefectNum" value="1" />
+          <option name="criterionDescription" value="建议8.5.2 方法的设计可优先考虑泛型" />
+          <option name="criterionMajorType" value="8.编程实践" />
+          <option name="criterionMinorType" value="建议8.5.2" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
       </list>
