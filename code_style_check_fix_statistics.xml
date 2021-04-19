@@ -204,24 +204,24 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="10" />
-          <option name="checkDefectNum" value="13" />
+          <option name="checkCount" value="12" />
+          <option name="checkDefectNum" value="16" />
           <option name="criterionDescription" value="规则1.6 常量名称全大写单词以下划线分隔" />
           <option name="criterionMajorType" value="1.命名" />
           <option name="criterionMinorType" value="规则1.6" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="11" />
-          <option name="checkDefectNum" value="25" />
+          <option name="checkCount" value="12" />
+          <option name="checkDefectNum" value="26" />
           <option name="criterionDescription" value="建议8.2.3 表达式的比较，应当遵循左侧倾向于变化、右侧倾向于不变的原则" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.2.3" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="4" />
-          <option name="checkDefectNum" value="6" />
+          <option name="checkCount" value="5" />
+          <option name="checkDefectNum" value="8" />
           <option name="criterionDescription" value="建议3.6 减少不必要的空行，保持代码紧凑" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.6" />
@@ -300,8 +300,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="1" />
+          <option name="checkCount" value="2" />
+          <option name="checkDefectNum" value="2" />
           <option name="criterionDescription" value="建议4.1 在向下类型转换前用instanceof进行判断" />
           <option name="criterionMajorType" value="4.变量和类型" />
           <option name="criterionMinorType" value="建议4.1" />
