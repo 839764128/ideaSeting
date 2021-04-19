@@ -204,16 +204,16 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="12" />
-          <option name="checkDefectNum" value="16" />
+          <option name="checkCount" value="13" />
+          <option name="checkDefectNum" value="17" />
           <option name="criterionDescription" value="规则1.6 常量名称全大写单词以下划线分隔" />
           <option name="criterionMajorType" value="1.命名" />
           <option name="criterionMinorType" value="规则1.6" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="12" />
-          <option name="checkDefectNum" value="26" />
+          <option name="checkCount" value="16" />
+          <option name="checkDefectNum" value="41" />
           <option name="criterionDescription" value="建议8.2.3 表达式的比较，应当遵循左侧倾向于变化、右侧倾向于不变的原则" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.2.3" />
@@ -313,6 +313,14 @@
           <option name="criterionDescription" value="建议8.5.2 方法的设计可优先考虑泛型" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.5.2" />
+          <option name="criterionType" value="华为Java语言通用编程规范" />
+        </RuleStatisticsItem>
+        <RuleStatisticsItem>
+          <option name="checkCount" value="3" />
+          <option name="checkDefectNum" value="3" />
+          <option name="criterionDescription" value="建议5.2 方法的参数个数不应超过5个" />
+          <option name="criterionMajorType" value="5.方法" />
+          <option name="criterionMinorType" value="建议5.2" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
       </list>
