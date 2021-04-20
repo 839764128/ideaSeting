@@ -76,8 +76,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="18" />
-          <option name="checkDefectNum" value="1885" />
+          <option name="checkCount" value="19" />
+          <option name="checkDefectNum" value="1886" />
           <option name="criterionDescription" value="规则2.3 Javadoc标签与内容间只1个空格,按@param，@return，@throws顺序排列" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.3" />
@@ -212,8 +212,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="31" />
-          <option name="checkDefectNum" value="81" />
+          <option name="checkCount" value="35" />
+          <option name="checkDefectNum" value="85" />
           <option name="criterionDescription" value="建议8.2.3 表达式的比较，应当遵循左侧倾向于变化、右侧倾向于不变的原则" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.2.3" />
@@ -236,8 +236,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="4" />
-          <option name="checkDefectNum" value="6" />
+          <option name="checkCount" value="5" />
+          <option name="checkDefectNum" value="9" />
           <option name="criterionDescription" value="建议7.1 不要直接捕获受检异常的基类Exception" />
           <option name="criterionMajorType" value="7.异常和日志" />
           <option name="criterionMinorType" value="建议7.1" />
@@ -324,8 +324,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="2" />
-          <option name="checkDefectNum" value="7" />
+          <option name="checkCount" value="3" />
+          <option name="checkDefectNum" value="8" />
           <option name="criterionDescription" value="建议3.2 一个类或接口的声明部分应当按照类变量、实例变量、构造器、方法的顺序出现，且用空行分隔" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.2" />
