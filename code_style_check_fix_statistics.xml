@@ -316,8 +316,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="3" />
-          <option name="checkDefectNum" value="3" />
+          <option name="checkCount" value="5" />
+          <option name="checkDefectNum" value="5" />
           <option name="criterionDescription" value="建议5.2 方法的参数个数不应超过5个" />
           <option name="criterionMajorType" value="5.方法" />
           <option name="criterionMinorType" value="建议5.2" />
