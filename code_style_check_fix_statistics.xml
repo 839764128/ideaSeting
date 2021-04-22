@@ -212,8 +212,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="42" />
-          <option name="checkDefectNum" value="127" />
+          <option name="checkCount" value="43" />
+          <option name="checkDefectNum" value="136" />
           <option name="criterionDescription" value="建议8.2.3 表达式的比较，应当遵循左侧倾向于变化、右侧倾向于不变的原则" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.2.3" />
@@ -292,8 +292,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="1" />
+          <option name="checkCount" value="4" />
+          <option name="checkDefectNum" value="19" />
           <option name="criterionDescription" value="建议8.3.1 对于if-else if（后续可能有多个else if）类型的条件判断，最后应该包含一个else分支。" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.3.1" />
@@ -332,8 +332,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="9" />
-          <option name="checkDefectNum" value="13" />
+          <option name="checkCount" value="12" />
+          <option name="checkDefectNum" value="16" />
           <option name="criterionDescription" value="建议8.6.2 Java 8使用Optional代替null作为返回值或者可能的缺失值" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.6.2" />
