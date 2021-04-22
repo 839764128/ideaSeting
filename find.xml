@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\service\src\main\java\com\huawei\csp\pmsmgr\business\init [csppmsmgr.service]'" />
-    <option name="defaultScopeName" value="Directory '...\service\src\main\java\com\huawei\csp\pmsmgr\business\init [csppmsmgr.service]'" />
+    <option name="customScope" value="Directory '...\service\src\main\java\com\huawei\csp\pmsmgr\business [csppmsmgr.service]'" />
+    <option name="defaultScopeName" value="Directory '...\service\src\main\java\com\huawei\csp\pmsmgr\business [csppmsmgr.service]'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\service\src\main\java\com\huawei\csp\pmsmgr\business\init [csppmsmgr.service]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\service\src\main\java\com\huawei\csp\pmsmgr\business [csppmsmgr.service]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
