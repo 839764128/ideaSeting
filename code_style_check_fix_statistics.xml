@@ -204,16 +204,16 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="19" />
-          <option name="checkDefectNum" value="42" />
+          <option name="checkCount" value="20" />
+          <option name="checkDefectNum" value="53" />
           <option name="criterionDescription" value="规则1.6 常量名称全大写单词以下划线分隔" />
           <option name="criterionMajorType" value="1.命名" />
           <option name="criterionMinorType" value="规则1.6" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="45" />
-          <option name="checkDefectNum" value="141" />
+          <option name="checkCount" value="46" />
+          <option name="checkDefectNum" value="146" />
           <option name="criterionDescription" value="建议8.2.3 表达式的比较，应当遵循左侧倾向于变化、右侧倾向于不变的原则" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.2.3" />
@@ -324,8 +324,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="5" />
-          <option name="checkDefectNum" value="12" />
+          <option name="checkCount" value="6" />
+          <option name="checkDefectNum" value="14" />
           <option name="criterionDescription" value="建议3.2 一个类或接口的声明部分应当按照类变量、实例变量、构造器、方法的顺序出现，且用空行分隔" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.2" />
