@@ -1,0 +1,32 @@
+<application>
+  <component name="MrGlobalSettings">
+    <option name="currentUser">
+      <UserData>
+        <option name="avatar" value="https://w3.huawei.com/w3lab/rest/yellowpage/face/00470493/120" />
+        <option name="avatarUrl" value="https://w3.huawei.com/w3lab/rest/yellowpage/face/00470493/120" />
+        <option name="canCreateGroup" value="true" />
+        <option name="canCreateProject" value="true" />
+        <option name="confirmedAt" value="2019-11-08T20:14:55.790+08:00" />
+        <option name="createdAt" value="2019-11-08T20:14:55.965+08:00" />
+        <option name="currentSignInAt" value="2020-11-05T12:19:37.538+08:00" />
+        <option name="email" value="wangrugang2@huawei.com" />
+        <option name="external" value="false" />
+        <option name="id" value="126038" />
+        <option name="lastActivityOn" value="2021-04-22" />
+        <option name="lastSignInAt" value="2020-10-16T10:53:08.315+08:00" />
+        <option name="name" value="wangrugang 00470493" />
+        <option name="nameCn" value="王儒刚" />
+        <option name="nickName" value="wangrugang" />
+        <option name="projectsLimit" value="100000" />
+        <option name="state" value="active" />
+        <option name="username" value="w00470493" />
+        <option name="webUrl" value="https://codehub-dg-y.huawei.com/w00470493" />
+      </UserData>
+    </option>
+    <option name="dialogSizeMap">
+      <map>
+        <entry key="Merge Request" value="1200,1000" />
+      </map>
+    </option>
+  </component>
+</application>
