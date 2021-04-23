@@ -44,8 +44,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="12" />
-          <option name="checkDefectNum" value="241" />
+          <option name="checkCount" value="13" />
+          <option name="checkDefectNum" value="243" />
           <option name="criterionDescription" value="规则1.2 所有标识符仅使用ASCII字母和数字，名称由正则表达式匹配 \w{2,64}" />
           <option name="criterionMajorType" value="1.命名" />
           <option name="criterionMinorType" value="规则1.2" />
@@ -236,8 +236,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="11" />
-          <option name="checkDefectNum" value="15" />
+          <option name="checkCount" value="12" />
+          <option name="checkDefectNum" value="16" />
           <option name="criterionDescription" value="建议7.1 不要直接捕获受检异常的基类Exception" />
           <option name="criterionMajorType" value="7.异常和日志" />
           <option name="criterionMinorType" value="建议7.1" />
@@ -348,8 +348,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="10" />
-          <option name="checkDefectNum" value="22" />
+          <option name="checkCount" value="11" />
+          <option name="checkDefectNum" value="24" />
           <option name="criterionDescription" value="建议3.10 变量被声明在接近它们首次使用的行" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.10" />
