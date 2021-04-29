@@ -28,8 +28,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="7" />
-          <option name="checkDefectNum" value="140" />
+          <option name="checkCount" value="13" />
+          <option name="checkDefectNum" value="146" />
           <option name="criterionDescription" value="规则8.8.1 不要在代码中硬编码&quot;\n&quot;和&quot;\r&quot;作为换行符号" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="规则8.8.1" />
@@ -188,8 +188,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="17" />
-          <option name="checkDefectNum" value="280" />
+          <option name="checkCount" value="23" />
+          <option name="checkDefectNum" value="286" />
           <option name="criterionDescription" value="规则7.4 日志的记录，不要使用 System.out 与 System.err 进行控制台打印，进行处理应使用Facade模式的日志框架（例如：产品自研的，或第三方Slf4j等）" />
           <option name="criterionMajorType" value="7.异常和日志" />
           <option name="criterionMinorType" value="规则7.4" />
@@ -361,6 +361,14 @@
           <option name="criterionDescription" value="建议3.12 类和成员修饰符（如果存在）按Java语言规范建议的顺序显示" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.12" />
+          <option name="criterionType" value="华为Java语言通用编程规范" />
+        </RuleStatisticsItem>
+        <RuleStatisticsItem>
+          <option name="checkCount" value="6" />
+          <option name="checkDefectNum" value="6" />
+          <option name="criterionDescription" value="建议3.3 应该避免空块；多块的右大括号应该新起一行" />
+          <option name="criterionMajorType" value="3.排版格式" />
+          <option name="criterionMinorType" value="建议3.3" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
       </list>
