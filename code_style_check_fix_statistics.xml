@@ -1,6 +1,6 @@
 <application>
   <component name="StatisticsStorage">
-    <option name="date" value="20210430" />
+    <option name="date" value="20210506" />
     <option name="rules">
       <list>
         <RuleStatisticsItem>
@@ -212,8 +212,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="54" />
-          <option name="checkDefectNum" value="180" />
+          <option name="checkCount" value="58" />
+          <option name="checkDefectNum" value="184" />
           <option name="criterionDescription" value="建议8.2.3 表达式的比较，应当遵循左侧倾向于变化、右侧倾向于不变的原则" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.2.3" />
