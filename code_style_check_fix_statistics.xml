@@ -1,6 +1,6 @@
 <application>
   <component name="StatisticsStorage">
-    <option name="date" value="20210506" />
+    <option name="date" value="20210507" />
     <option name="rules">
       <list>
         <RuleStatisticsItem>
@@ -52,8 +52,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="53" />
-          <option name="checkDefectNum" value="1099" />
+          <option name="checkCount" value="54" />
+          <option name="checkDefectNum" value="1102" />
           <option name="criterionDescription" value="规则2.1 Javadoc用于每一个public或protected修饰的元素" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.1" />
@@ -132,8 +132,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="3" />
-          <option name="checkDefectNum" value="76" />
+          <option name="checkCount" value="4" />
+          <option name="checkDefectNum" value="79" />
           <option name="criterionDescription" value="规则1.7 非常量字段名称采用首字母小写的驼峰命名法" />
           <option name="criterionMajorType" value="1.命名" />
           <option name="criterionMinorType" value="规则1.7" />
@@ -204,8 +204,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="21" />
-          <option name="checkDefectNum" value="54" />
+          <option name="checkCount" value="22" />
+          <option name="checkDefectNum" value="55" />
           <option name="criterionDescription" value="规则1.6 常量名称全大写单词以下划线分隔" />
           <option name="criterionMajorType" value="1.命名" />
           <option name="criterionMinorType" value="规则1.6" />
@@ -236,8 +236,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="21" />
-          <option name="checkDefectNum" value="28" />
+          <option name="checkCount" value="22" />
+          <option name="checkDefectNum" value="31" />
           <option name="criterionDescription" value="建议7.1 不要直接捕获受检异常的基类Exception" />
           <option name="criterionMajorType" value="7.异常和日志" />
           <option name="criterionMinorType" value="建议7.1" />
@@ -324,16 +324,16 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="7" />
-          <option name="checkDefectNum" value="15" />
+          <option name="checkCount" value="8" />
+          <option name="checkDefectNum" value="21" />
           <option name="criterionDescription" value="建议3.2 一个类或接口的声明部分应当按照类变量、实例变量、构造器、方法的顺序出现，且用空行分隔" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.2" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="17" />
-          <option name="checkDefectNum" value="30" />
+          <option name="checkCount" value="18" />
+          <option name="checkDefectNum" value="34" />
           <option name="criterionDescription" value="建议8.6.2 Java 8使用Optional代替null作为返回值或者可能的缺失值" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.6.2" />
