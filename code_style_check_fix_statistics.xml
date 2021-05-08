@@ -236,8 +236,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="24" />
-          <option name="checkDefectNum" value="37" />
+          <option name="checkCount" value="26" />
+          <option name="checkDefectNum" value="43" />
           <option name="criterionDescription" value="建议7.1 不要直接捕获受检异常的基类Exception" />
           <option name="criterionMajorType" value="7.异常和日志" />
           <option name="criterionMinorType" value="建议7.1" />
@@ -308,8 +308,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="3" />
-          <option name="checkDefectNum" value="3" />
+          <option name="checkCount" value="5" />
+          <option name="checkDefectNum" value="5" />
           <option name="criterionDescription" value="建议8.5.2 方法的设计可优先考虑泛型" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.5.2" />
@@ -324,16 +324,16 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="10" />
-          <option name="checkDefectNum" value="33" />
+          <option name="checkCount" value="12" />
+          <option name="checkDefectNum" value="45" />
           <option name="criterionDescription" value="建议3.2 一个类或接口的声明部分应当按照类变量、实例变量、构造器、方法的顺序出现，且用空行分隔" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="建议3.2" />
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="20" />
-          <option name="checkDefectNum" value="42" />
+          <option name="checkCount" value="22" />
+          <option name="checkDefectNum" value="50" />
           <option name="criterionDescription" value="建议8.6.2 Java 8使用Optional代替null作为返回值或者可能的缺失值" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.6.2" />
@@ -372,8 +372,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="2" />
-          <option name="checkDefectNum" value="2" />
+          <option name="checkCount" value="4" />
+          <option name="checkDefectNum" value="4" />
           <option name="criterionDescription" value="建议8.5.4 声明一个泛型类通过限定符限制可用的泛型类型" />
           <option name="criterionMajorType" value="8.编程实践" />
           <option name="criterionMinorType" value="建议8.5.4" />
