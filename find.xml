@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,10 +20,10 @@
     <mask>pom.xml</mask>
     <mask>Mapper.xml</mask>
     <mask>UpgTaskServiceImpl.java</mask>
-    <mask>*.yaml</mask>
     <mask>*.xml</mask>
     <mask>*Mapper.java</mask>
     <mask>*Mapper.xml</mask>
     <mask>*.java</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
