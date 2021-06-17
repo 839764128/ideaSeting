@@ -52,8 +52,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="58" />
-          <option name="checkDefectNum" value="1108" />
+          <option name="checkCount" value="60" />
+          <option name="checkDefectNum" value="1110" />
           <option name="criterionDescription" value="规则2.1 Javadoc用于每一个public或protected修饰的元素" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.1" />
@@ -68,8 +68,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="8" />
-          <option name="checkDefectNum" value="112" />
+          <option name="checkCount" value="10" />
+          <option name="checkDefectNum" value="114" />
           <option name="criterionDescription" value="规则3.2 一个源文件按顺序包含版权、package、import、顶层类，且用空行分隔" />
           <option name="criterionMajorType" value="3.排版格式" />
           <option name="criterionMinorType" value="规则3.2" />
@@ -100,8 +100,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="23" />
-          <option name="checkDefectNum" value="445" />
+          <option name="checkCount" value="25" />
+          <option name="checkDefectNum" value="447" />
           <option name="criterionDescription" value="规则5.1 避免方法过长，不超过50行（非空非注释）" />
           <option name="criterionMajorType" value="5.方法" />
           <option name="criterionMinorType" value="规则5.1" />
