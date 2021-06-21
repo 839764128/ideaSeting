@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\service\src\main\java\com\huawei\csp\sdk\monitor\logic\DotAreaLogic.java [monsdkv2]'" />
-    <option name="defaultScopeName" value="File '...\service\src\main\java\com\huawei\csp\sdk\monitor\logic\DotAreaLogic.java [monsdkv2]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\service\src\main\java\com\huawei\csp\sdk\monitor\logic\DotAreaLogic.java [monsdkv2]'" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
