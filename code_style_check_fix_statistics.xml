@@ -1,6 +1,6 @@
 <application>
   <component name="StatisticsStorage">
-    <option name="date" value="20210810" />
+    <option name="date" value="20210811" />
     <option name="rules">
       <list>
         <RuleStatisticsItem>
@@ -52,8 +52,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="85" />
-          <option name="checkDefectNum" value="1188" />
+          <option name="checkCount" value="86" />
+          <option name="checkDefectNum" value="1189" />
           <option name="criterionDescription" value="规则2.1 Javadoc用于每一个public或protected修饰的元素" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.1" />
@@ -132,8 +132,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="7" />
-          <option name="checkDefectNum" value="86" />
+          <option name="checkCount" value="8" />
+          <option name="checkDefectNum" value="87" />
           <option name="criterionDescription" value="规则1.7 非常量字段名称采用首字母小写的驼峰命名法" />
           <option name="criterionMajorType" value="1.命名" />
           <option name="criterionMinorType" value="规则1.7" />
@@ -148,8 +148,8 @@
           <option name="criterionType" value="华为Java语言通用编程规范" />
         </RuleStatisticsItem>
         <RuleStatisticsItem>
-          <option name="checkCount" value="47" />
-          <option name="checkDefectNum" value="375" />
+          <option name="checkCount" value="48" />
+          <option name="checkDefectNum" value="383" />
           <option name="criterionDescription" value="规则2.6 注释正文与其下的各个Javadoc tag之间加1个空行；类级成员注释与上面的代码之间有一个空行；注释符与注释内容间要有1空格；右置注释与前面代码至少1空格" />
           <option name="criterionMajorType" value="2.注释" />
           <option name="criterionMinorType" value="规则2.6" />
