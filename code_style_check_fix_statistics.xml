@@ -1,33 +1,5 @@
 <application>
   <component name="StatisticsStorage">
-    <option name="date" value="20210812" />
-    <option name="rules">
-      <list>
-        <RuleStatisticsItem>
-          <option name="checkCount" value="2" />
-          <option name="checkDefectNum" value="10" />
-          <option name="criterionDescription" value="规则2.1 Javadoc用于每一个public或protected修饰的元素" />
-          <option name="criterionMajorType" value="2.注释" />
-          <option name="criterionMinorType" value="规则2.1" />
-          <option name="criterionType" value="华为Java语言通用编程规范" />
-        </RuleStatisticsItem>
-        <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="1" />
-          <option name="criterionDescription" value="规则2.3 Javadoc标签与内容间只1个空格,按@param，@return，@throws顺序排列" />
-          <option name="criterionMajorType" value="2.注释" />
-          <option name="criterionMinorType" value="规则2.3" />
-          <option name="criterionType" value="华为Java语言通用编程规范" />
-        </RuleStatisticsItem>
-        <RuleStatisticsItem>
-          <option name="checkCount" value="2" />
-          <option name="checkDefectNum" value="10" />
-          <option name="criterionDescription" value="规则1.6 常量名称全大写单词以下划线分隔" />
-          <option name="criterionMajorType" value="1.命名" />
-          <option name="criterionMinorType" value="规则1.6" />
-          <option name="criterionType" value="华为Java语言通用编程规范" />
-        </RuleStatisticsItem>
-      </list>
-    </option>
+    <option name="date" value="20210824" />
   </component>
 </application>
