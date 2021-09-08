@@ -1,17 +1,5 @@
 <application>
   <component name="StatisticsStorage">
-    <option name="date" value="20210826" />
-    <option name="rules">
-      <list>
-        <RuleStatisticsItem>
-          <option name="checkCount" value="1" />
-          <option name="checkDefectNum" value="2" />
-          <option name="criterionDescription" value="规则7.4 日志的记录，不要使用 System.out 与 System.err 进行控制台打印，进行处理应使用Facade模式的日志框架（例如：产品自研的，或第三方Slf4j等）" />
-          <option name="criterionMajorType" value="7.异常和日志" />
-          <option name="criterionMinorType" value="规则7.4" />
-          <option name="criterionType" value="华为Java语言通用编程规范" />
-        </RuleStatisticsItem>
-      </list>
-    </option>
+    <option name="date" value="20210908" />
   </component>
 </application>
