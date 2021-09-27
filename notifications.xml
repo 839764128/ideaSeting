@@ -4,5 +4,6 @@
     <notification groupId="CodeStyleCheck Sticky Balloon Notification" displayType="NONE" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="File Watcher Messages" displayType="NONE" />
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" />
   </component>
 </application>
