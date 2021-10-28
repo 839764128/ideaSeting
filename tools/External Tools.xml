@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="ng build" description="ng build" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Git\bin\sh.exe" />
+      <option name="PARAMETERS" value="--login -ing.cmd 'ng build --base-href /monitor/ --configuration production --source-map'" />
+      <option name="WORKING_DIRECTORY" value="D:/IdeaProject/CSPPMSMgr/deployment/webRoot/monitor" />
+    </exec>
+  </tool>
+</toolSet>
