@@ -1,18 +1,18 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="*.js.map" type="JavaScript" />
       <mapping ext="hwics" type="Native" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="23" type="PLAIN_TEXT" />
       <mapping pattern="213" type="PLAIN_TEXT" />
       <mapping ext="idx" type="PLAIN_TEXT" />
       <mapping ext="txt1" type="PLAIN_TEXT" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping pattern="*.js.map" approved="true" type="SourceMap" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
