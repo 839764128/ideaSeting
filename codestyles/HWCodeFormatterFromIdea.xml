@@ -12,12 +12,12 @@
       <value />
     </option>
   </JavaCodeStyleSettings>
+  <Properties>
+    <option name="KEEP_BLANK_LINES" value="true" />
+  </Properties>
   <SqlCodeStyleSettings version="5">
     <option name="DISABLE_FORMATTING" value="true" />
   </SqlCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
