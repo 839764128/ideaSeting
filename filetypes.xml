@@ -8,8 +8,8 @@
       <mapping pattern="213" type="PLAIN_TEXT" />
       <mapping ext="idx" type="PLAIN_TEXT" />
       <mapping ext="txt1" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="ini" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="*.js.map" approved="true" type="SourceMap" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
