@@ -3,9 +3,9 @@
     <extensionMap>
       <mapping pattern="*.js.map" type="JavaScript" />
       <mapping ext="hwics" type="Native" />
-      <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="23" type="PLAIN_TEXT" />
       <mapping pattern="213" type="PLAIN_TEXT" />
+      <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping ext="idx" type="PLAIN_TEXT" />
       <mapping ext="txt1" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
